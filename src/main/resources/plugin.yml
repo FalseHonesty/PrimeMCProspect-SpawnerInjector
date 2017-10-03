@@ -1,0 +1,6 @@
+name: SpawnerInjector
+version: ${project.version}
+main: me.falsehonesty.spawnerinjector.SpawnerInjector
+authors: [FalseHonesty]
+description: Plugin that injects a new mob spawner into the game
+website: http://falsehonesty.me
